@@ -1,4 +1,9 @@
+# IntelliJ files
 .idea
 *.iml
+
+# Ignore OS X file attributes
+.DS_Store
+
 scratch.go
 
